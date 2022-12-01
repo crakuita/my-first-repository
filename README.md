@@ -1,5 +1,6 @@
 # Learning Git
 Oh fuck yeah brother
+Im hard as a rock
 
 Important steps for git workflow:
 
